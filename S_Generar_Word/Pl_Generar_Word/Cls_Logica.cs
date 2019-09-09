@@ -19,7 +19,7 @@ namespace Pl_Generar_Word
             IPluginExecutionContext service = (IPluginExecutionContext)serviceProvider.GetService(typeof(IPluginExecutionContext));
             IOrganizationServiceFactory serviceFactory = (IOrganizationServiceFactory)serviceProvider.GetService(typeof(IOrganizationServiceFactory));
             IOrganizationService _orgService = serviceFactory.CreateOrganizationService(service.UserId);
-//prueba1
+//prueba1111drs
             // tracingService.Trace("GUID de la cotización" + "cc");
             CotizacionDA cotizacionDA = new CotizacionDA();
             string guidPlantilla = string.Empty;
