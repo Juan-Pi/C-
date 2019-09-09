@@ -1,0 +1,9 @@
+E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\bin\Debug\Pl_Generar_Word.dll
+E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\bin\Debug\Pl_Generar_Word.pdb
+E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\obj\Debug\Pl_Generar_Word.csprojResolveAssemblyReference.cache
+E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\obj\Debug\Pl_Generar_Word.csproj.CoreCompileInputs.cache
+E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\obj\Debug\Pl_Generar_Word.dll
+E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\obj\Debug\Pl_Generar_Word.pdb
