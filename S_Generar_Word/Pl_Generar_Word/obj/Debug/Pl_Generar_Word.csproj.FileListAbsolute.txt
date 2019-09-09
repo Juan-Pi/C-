@@ -7,3 +7,6 @@ E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Genera
 E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\obj\Debug\Pl_Generar_Word.csproj.CoreCompileInputs.cache
 E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\obj\Debug\Pl_Generar_Word.dll
 E:\MEGA\paso a github\en proceso\Integracion Zeus\Plugin\P_Generar_Word\S_Generar_Word\Pl_Generar_Word\obj\Debug\Pl_Generar_Word.pdb
+C:\GitHub\C-\S_Generar_Word\Pl_Generar_Word\obj\Debug\Pl_Generar_Word.csprojAssemblyReference.cache
+C:\GitHub\C-\S_Generar_Word\Pl_Generar_Word\obj\Debug\Pl_Generar_Word.dll
+C:\GitHub\C-\S_Generar_Word\Pl_Generar_Word\obj\Debug\Pl_Generar_Word.pdb
